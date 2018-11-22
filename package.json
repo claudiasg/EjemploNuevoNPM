@@ -1,6 +1,6 @@
 {
   "name": "ejemploclase2",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Ejemplo de npm",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,6 @@
     "jquery": "^3.3.1",
     "lodash": "^4.17.11"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository":{"type":"github","url":"https://github.com/claudiasg/EjemploNuevoNPM.git"}
 }
